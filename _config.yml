@@ -1,0 +1,12 @@
+title: Swati Banerjee
+description: Research scientist in structural proteomics and analytical chemistry
+url: "https://swatibanerjeechem.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
