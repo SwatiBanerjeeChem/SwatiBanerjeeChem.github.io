@@ -1,6 +1,6 @@
 # Swati Banerjee — personal website
 
-A Markdown-first academic portfolio for GitHub Pages. The main content lives in [`index.md`](index.md); visual styles live in [`assets/css/style.scss`](assets/css/style.scss).
+A Markdown-first academic portfolio for GitHub Pages. The main content lives in [`index.md`](index.md); visual styles live in [`assets/style.css`](assets/style.css).
 
 ## Publish on GitHub Pages
 
@@ -10,4 +10,3 @@ A Markdown-first academic portfolio for GitHub Pages. The main content lives in 
 4. The site will appear at `https://swatibanerjeechem.github.io/` after GitHub finishes building it.
 
 GitHub Pages builds the Markdown with Jekyll automatically; no local build step is required.
-
